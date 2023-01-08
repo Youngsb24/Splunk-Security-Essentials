@@ -1,0 +1,2 @@
+# Splunk-Security-Essentials
+This Project is a walk through of simple Vulnerability Detection and Windows Patch status using Splunk Security Essentials. Most of what we will be seeing is  detection, but mostly understanding how to prevent from certain malicious activity. Lastly we will understand the reason to keep your system up to date and patch.
